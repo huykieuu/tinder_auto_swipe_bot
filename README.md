@@ -1,4 +1,5 @@
 Install `Selenium` to run the bot:
+
 `> pip install selenium`
 
 Then, create a login_info.py file with the information:
@@ -7,7 +8,7 @@ Then, create a login_info.py file with the information:
  pwd = 'your_password'
 ```
 
-This bot was set to auto swipe right and contained a random
+This bot is set to auto swipe right and contains a random
 time feature to avoid bot detection.
 
-Just for fun! Peace!
+Just for fun!
